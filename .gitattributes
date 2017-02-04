@@ -1,4 +1,4 @@
-/.resources/*.png linguist-documentation
+/.resources/*.* linguist-documentation
 /vim/tutorial/*.* linguist-documentation
 /vim/colors/*.* linguist-documentation
 /vim/colors/*.* linguist-documentation
