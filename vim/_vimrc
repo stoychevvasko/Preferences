@@ -68,9 +68,10 @@ set viminfo^=%
 
 
 colorscheme lucius
-set guifont=Source_Code_Pro:h9
+set guifont=Source_Code_Pro:h11:cEASTEUROPE:qDRAFT
 set encoding=utf16
 set guioptions=i
+set guioptions=m
 au GUIEnter * simalt ~x
 set lines=999 columns=999
 set textwidth=181
