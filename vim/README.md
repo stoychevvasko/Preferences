@@ -1,6 +1,6 @@
 Learn something every week
 
-Week 1 (23-29/01/2017)
+Week 1
 
   1. Remap CapsLock to ESC
 
@@ -55,18 +55,22 @@ Week 2
 [ b ]  -  go back to the beginning of last word
 [ u ]  -  undo
 [ ctrl ] + [ r ] - redo
-[  ] x - "del" 1 char on cursor
-[  ] shift - X - "backspace" delete 1 char to the left
-[  ] i - enter INSERT mode before cursor
-[  ] a - append INSERT mode after cursor
-[  ] shift + A - append at this line end
-[  ] shift + I - insert at beginning of this line
-[  ] c - change - NORMAL mode cursor turns smaller - 
-[  ] shift + C - clear till end of this line and go into INSERT mode
-[  ] f, ( - go to next opening bracket - operation on next matching symbol
-[  ] v, i, ( - visually inside symbol ( - select all between ("{[ etc. 
-[  ] o - start writing from beginning of next line
- - shift + O - insert blank line 1 line above and insert at beginning
+[ x ] - "del" 1 char on cursor
+[ shift ] + [ X ] - "backspace" delete 1 char to the left
+[ i ] - enter INSERT mode before cursor
+[ a ] - append INSERT mode after cursor
+[ shift ] + [ A ] - append at this line end
+[ shift ] + [ I ] - insert at beginning of this line
+[ c ] - change - NORMAL mode cursor turns smaller - 
+[ shift ] + [ C ] - clear till end of this line and go into INSERT mode
+[ f ], [ ( ] - go to next opening bracket - operation on next matching symbol
+[ v ], [ i ], [ ( ] - visually inside symbol ( - select all between ("{[ etc. 
+[ o ] - start writing from beginning of next line
+ - [ shift ] + [ O ] - insert blank line 1 line above and insert at beginning
 [ shift ] + [ J ] in VISUAL mode - hold to minify code spaces and new lines -
-ends on single line
-think modally! vim tips!
+ends on single line    
+
+think modally! vim tips!    
+
+
+
