@@ -44,31 +44,30 @@ Week 1
 
 Week 2
 
-[ g ], [ g ]  -  [ ctrl ] + [ home ]  -  goto first line first symbol
-[ shift ] + [ G ]  -  goto beginning of last line
-[ j ]  -  go 1 line lower
-[ h ]  -  go left
-[ k ]  -  go down
-[ l ]  -  go right
-[ w ]  -  go to beginning of next word
-[ e ]  -  go to end of next word
-[ b ]  -  go back to the beginning of last word
-[ u ]  -  undo
-[ ctrl ] + [ r ] - redo
-[ x ] - "del" 1 char on cursor
-[ shift ] + [ X ] - "backspace" delete 1 char to the left
-[ i ] - enter INSERT mode before cursor
-[ a ] - append INSERT mode after cursor
-[ shift ] + [ A ] - append at this line end
-[ shift ] + [ I ] - insert at beginning of this line
-[ c ] - change - NORMAL mode cursor turns smaller - 
-[ shift ] + [ C ] - clear till end of this line and go into INSERT mode
-[ f ], [ ( ] - go to next opening bracket - operation on next matching symbol
-[ v ], [ i ], [ ( ] - visually inside symbol ( - select all between ("{[ etc. 
-[ o ] - start writing from beginning of next line
- - [ shift ] + [ O ] - insert blank line 1 line above and insert at beginning
-[ shift ] + [ J ] in VISUAL mode - hold to minify code spaces and new lines -
-ends on single line    
+- [ g ], [ g ]  -  [ ctrl ] + [ home ]  -  goto first line first symbol
+- [ shift ] + [ G ]  -  goto beginning of last line
+- [ j ]  -  go 1 line lower
+- [ h ]  -  go left
+- [ k ]  -  go down
+- [ l ]  -  go right
+- [ w ]  -  go to beginning of next word
+- [ e ]  -  go to end of next word
+- [ b ]  -  go back to the beginning of last word
+- [ u ]  -  undo
+- [ ctrl ] + [ r ] - redo
+- [ x ] - "del" 1 char on cursor
+- [ shift ] + [ X ] - "backspace" delete 1 char to the left
+- [ i ] - enter INSERT mode before cursor
+- [ a ] - append INSERT mode after cursor
+- [ shift ] + [ A ] - append at this line end
+- [ shift ] + [ I ] - insert at beginning of this line
+- [ c ] - change - NORMAL mode cursor turns smaller - 
+- [ shift ] + [ C ] - clear till end of this line and go into INSERT mode
+- [ f ], [ ( ] - go to next opening bracket - operation on next matching symbol
+- [ v ], [ i ], [ ( ] - visually inside symbol ( - select all between ("{[ etc. 
+- [ o ] - start writing from beginning of next line
+-  - [ shift ] + [ O ] - insert blank line 1 line above and insert at beginning
+- [ shift ] + [ J ] in VISUAL mode - hold to minify code spaces and new lines - ends on single line    
 
 think modally! vim tips!    
 
