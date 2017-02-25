@@ -67,7 +67,7 @@ set viminfo^=%
 
 
 
-colorscheme lucius
+colorscheme atom-dark
 set guifont=Source_Code_Pro:h11:cEASTEUROPE:qDRAFT
 set encoding=utf16
 set guioptions=i
@@ -97,9 +97,9 @@ set nobackup
 set nowb
 set noswapfile
 
-set ai "Auto indent
-set si "Smart indent
-set wrap "Wrap lines
+set ai " Auto indent
+set si " Smart indent
+set wrap " Wrap lines
 
 set shortmess=a
 

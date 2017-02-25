@@ -1,6 +1,4 @@
-Learn something every week
-
-Week 1
+Tips 1:
 
   1. Remap CapsLock to ESC
 
@@ -42,9 +40,9 @@ Week 1
 
 
 
-Week 2
+Tips 2
 
-- [ g ], [ g ]  -  [ ctrl ] + [ home ]  -  goto first line first symbol
+- [ g ], [ g ]  /  [ ctrl ] + [ home ]  -  goto first line first symbol
 - [ shift ] + [ G ]  -  goto beginning of last line
 - [ j ]  -  go 1 line lower
 - [ h ]  -  go left
@@ -69,7 +67,6 @@ Week 2
 -  - [ shift ] + [ O ] - insert blank line 1 line above and insert at beginning
 - [ shift ] + [ J ] in VISUAL mode - hold to minify code spaces and new lines - ends on single line    
 
-think modally! vim tips!    
 
 
 
