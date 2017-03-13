@@ -1,11 +1,3 @@
-![alt text](https://github.com/stoychevvasko/Preferences/tree/master/vim/tutorial/vi-vim-tutorial-1.svg "Vim Tutorial")
-![alt text](https://github.com/stoychevvasko/Preferences/tree/master/vim/tutorial/vi-vim-tutorial-2.svg "Vim Tutorial")
-![alt text](https://github.com/stoychevvasko/Preferences/tree/master/vim/tutorial/vi-vim-tutorial-3.svg "Vim Tutorial")
-![alt text](https://github.com/stoychevvasko/Preferences/tree/master/vim/tutorial/vi-vim-tutorial-4.svg "Vim Tutorial")
-![alt text](https://github.com/stoychevvasko/Preferences/tree/master/vim/tutorial/vi-vim-tutorial-5.svg "Vim Tutorial")
-![alt text](https://github.com/stoychevvasko/Preferences/tree/master/vim/tutorial/vi-vim-tutorial-6.svg "Vim Tutorial")
-![alt text](https://github.com/stoychevvasko/Preferences/tree/master/vim/tutorial/vi-vim-tutorial-7.svg "Vim Tutorial")
-
 Tips 1:
 
   1. Remap CapsLock to ESC
