@@ -75,7 +75,7 @@ set guioptions=m
 au GUIEnter * simalt ~x
 set lines=999 columns=999
 set textwidth=181
-set tabstop=4 shiftwidth=4 expandtab
+set tabstop=2 shiftwidth=2 expandtab
 set autoindent
 set number
 set showcmd
